@@ -1,0 +1,27 @@
+.header{
+  background-image:url(images/veggies.jpg);
+  min-height:200px;
+  color:white;
+  text-align: center;
+  padding: 0;
+}
+.header h1{
+  padding:30px;
+}
+.lside,
+.rside{
+  background-color: lightyellow;
+
+}
+
+.blog{
+  background-color: lightblue;
+}
+
+ .fit{
+   max-width: 40%;
+ }
+
+ .bigpic{
+   max-width: 100%;
+ }
